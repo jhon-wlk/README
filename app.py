@@ -3,7 +3,7 @@ import plotly.express as px
 import streamlit as st
 
 # Carregar os dados
-data = pd.read_csv("C:/Users/Jhonw/OneDrive/Área de Trabalho/Bootcamp/CloneGit/vehicles.csv")  # Substitua com o caminho correto
+data = pd.read_csv("C:\\Users\\Jhonw\\OneDrive\\Documents\\GitHub\\README\\vehicles_new.csv)  # Substitua com o caminho correto
 
 # Exibir as colunas do DataFrame para o usuário
 st.header("Escolha as colunas para os gráficos")
